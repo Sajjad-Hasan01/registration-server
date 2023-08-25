@@ -1,0 +1,12 @@
+# Logs
+logs
+*.log
+
+# Packages: bcrypt, body-parser, cors, dotenv, env-cmd, express, jsonwebtoken, mongoose, nodemon
+node_modules
+dist
+dist-ssr
+*.local
+
+# Environment File
+*.env
